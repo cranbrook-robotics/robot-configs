@@ -6,7 +6,7 @@
 #pragma config(Motor,  port2,           mDriveLF,      tmotorVex393_MC29, openLoop)
 #pragma config(Motor,  port3,           mPuncher,      tmotorVex393_MC29, openLoop, reversed)
 #pragma config(Motor,  port4,           mDriveRF,      tmotorVex393_MC29, openLoop)
-#pragma config(Motor,  port5,           mIntake,       tmotorVex393_MC29, openLoop, reversed)
+#pragma config(Motor,  port5,           mIntake,       tmotorVex393_MC29, openLoop)
 #pragma config(Motor,  port6,           mFlyRF,        tmotorVex393TurboSpeed_MC29, openLoop, encoderPort, I2C_1)
 #pragma config(Motor,  port7,           mFlyLF,        tmotorVex393TurboSpeed_MC29, openLoop, reversed, encoderPort, I2C_2)
 #pragma config(Motor,  port8,           mDriveLB,      tmotorVex393_MC29, openLoop)
